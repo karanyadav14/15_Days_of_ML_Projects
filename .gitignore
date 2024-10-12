@@ -1,2 +1,3 @@
 data/*
 PyTorch_Implementation/data/*
+.DS_Store
